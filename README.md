@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi! I am George Jordan 👋
 
+I'm a Data Scientist. 
+
+My GitHub profile is a place where I can showcase some personal projects, share code for the tutorials and other publications I've written, and generally do GitHub type things.
+
+I would appreciate some ideas of collaboration, or discussions about working together on some projects.
+
+Don't hesitate to drop me a line if you have any questions.
 <!--
 **GeoJordan/GeoJordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
