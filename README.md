@@ -12,7 +12,7 @@
 
 ## Cybersecurity | Infrastructure Engineering | GRC Automation
 
-I build technical solutions that improve how organizations manage security, compliance, and risk through automation.
+I build technical solutions that improve how organizations manage security, compliance, and risk through automation. My projects emphasize governance, version-controlled engineering documentation, and implementation-ready designs.
 
 My work focuses on transforming traditionally manual compliance processes into scalable, repeatable engineering workflows while designing enterprise-inspired infrastructure, cybersecurity, and automation solutions.
 
@@ -20,7 +20,7 @@ My work focuses on transforming traditionally manual compliance processes into s
 
 ## Featured Engineering Projects
 
-Project Orion — Enterprise-inspired infrastructure engineering portfolio featuring governance, network architecture, and Home Assistant implementation.
+- **[Project Orion](https://github.com/GeoJordan/project-orion)** — Enterprise-inspired infrastructure engineering portfolio demonstrating governance-first design, network architecture, cybersecurity, and Home Assistant implementation.
 
 GRC Python Toolkit — Compliance automation using Python.
 
