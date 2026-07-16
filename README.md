@@ -22,13 +22,13 @@ My work focuses on transforming traditionally manual compliance processes into s
 
 - **[Project Orion](https://github.com/GeoJordan/project-orion)** — Enterprise-inspired infrastructure engineering portfolio demonstrating governance-first design, network architecture, cybersecurity, and Home Assistant implementation.
 
-GRC Python Toolkit — Compliance automation using Python.
+- **[GRC Python Toolkit](https://github.com/GeoJordan/grc-python-toolkit)** — Compliance automation using Python.
 
-HIPAA GRC Automation Pipeline — Healthcare security and compliance automation.
+- **[HIPAA GRC Automation Pipeline](https://github.com/GeoJordan/hipaa-grc-automation-pipeline)** — Healthcare security and compliance automation.
 
-Active Directory GRC Audit Lab — Windows security and governance.
+- **[Active Directory GRC Audit Lab](https://github.com/GeoJordan/active-directory-grc-audit-lab)** — Windows security and governance.
 
-Third-Party Risk Assessment Program — Vendor risk management.
+- **[Third-Party Risk Assessment Program](https://github.com/GeoJordan/third-party-risk-assessment-program)** — Vendor risk management.
 
 ---
 
