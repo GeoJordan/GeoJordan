@@ -21,9 +21,13 @@ My work focuses on transforming traditionally manual compliance processes into s
 ## Featured Engineering Projects
 
 Project Orion — Enterprise-inspired infrastructure engineering portfolio featuring governance, network architecture, and Home Assistant implementation.
+
 GRC Python Toolkit — Compliance automation using Python.
+
 HIPAA GRC Automation Pipeline — Healthcare security and compliance automation.
+
 Active Directory GRC Audit Lab — Windows security and governance.
+
 Third-Party Risk Assessment Program — Vendor risk management.
 
 ---
