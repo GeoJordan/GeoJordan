@@ -18,7 +18,7 @@ My work focuses on transforming traditionally manual compliance processes into s
 
 ---
 
-## Featured Engineering Projects
+## Featured Cybersecurity & Engineering Projects
 
 - **[Project Orion](https://github.com/GeoJordan/project-orion)** — Enterprise-inspired infrastructure engineering portfolio demonstrating governance-first design, network architecture, cybersecurity, and Home Assistant implementation.
 
